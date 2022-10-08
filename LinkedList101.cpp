@@ -31,3 +31,9 @@ int main(){
     }
     
 }
+/* 
+    1. Do not print the linkedlist.
+    2. Add a new number to the end of the linkedlist.
+    3. This new number should be entered by the user.
+    4. Print entire linkedlist now.
+*/
