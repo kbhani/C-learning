@@ -63,7 +63,7 @@ int main(){
         else if(choice == 2){
             
             if(queue1.showFront() == (queue1.showBack() + 1) || queue1.showFront() == -1){
-                cout<<"Queue is empty, no elements stored so nothing dequeue "<<endl;
+                cout<<"Queue is empty, no elements stored so nothing to dequeue "<<endl;
             } else {
                 element = queue1.dequeue();
                 cout<<"The front most element was "<<element<<endl;
